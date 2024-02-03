@@ -1,3 +1,3 @@
 # circularbuffer
 
-A tested Circular Buffer data structure.
+A tested circular buffer data structure.
